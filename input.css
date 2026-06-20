@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    display: flex;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.center{
+    align-items: center;
+    background-color: bisque;
+}
+
+.space{
+    margin-bottom: 10px;
+}
