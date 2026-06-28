@@ -1,0 +1,60 @@
+.nav-bar{
+    display: flex;
+    background-color: blueviolet;
+    padding: 5px;
+    justify-content: space-between;
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    margin: 0;
+}
+
+#button-type{
+    border-radius: 10px;
+    justify-content: center;
+    padding: 10px;
+
+}
+
+.list-element{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.Dream-website{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dream-container{
+    width: 70%;
+    max-width: 90%;
+    text-align: center;
+}
+
+#started{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#page-button{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+
+}
+
