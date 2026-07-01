@@ -1,0 +1,45 @@
+.navigation{
+    display: flex;
+    background-color: beige;
+    text-align: center;
+    justify-content: space-between;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-element{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+button{
+    border-radius: 10px;
+    justify-content: center;
+    padding: 2px;
+    width: 100px;        
+    height: 35px; 
+    cursor: pointer;
+}
+
+section{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+     height: 90vh;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer{
+    background-color: beige;
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
